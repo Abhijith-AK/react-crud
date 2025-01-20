@@ -1,3 +1,3 @@
-const SERVERURL = "http://localhost:3000/database";
+const SERVERURL = "https://react-crud-json-server-yg7i.onrender.com/database";
 
 export default SERVERURL;
